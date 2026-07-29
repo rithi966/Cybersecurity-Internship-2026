@@ -28,7 +28,7 @@ Designed an Identity and Access Management (IAM) solution for a business environ
 ### ✅ Task 2 – TryHackMe Style Cybersecurity Lab
 **Status:** Completed
 
-Designed and developed a hands-on cybersecurity learning lab using PHP and MySQL that teaches secure web authentication and secure coding practices.
+Designed and developed a hands-on cybersecurity learning lab using PHP and MySQL that teaches secure web authentication, web application security, and secure coding practices.
 
 #### Features
 
@@ -44,11 +44,10 @@ Designed and developed a hands-on cybersecurity learning lab using PHP and MySQL
 #### Challenges
 
 - Challenge 1 – Introduction
-- Challenge 2 – Authentication Analysis
-- Challenge 3 – Secure Authentication Comparison
-- Challenge 4 – Authorization and Access Control
+- Challenge 2 – SQL Injection Authentication Bypass
+- Challenge 3 – Secure Authentication
+- Challenge 4 – Broken Access Control (IDOR)
 - Challenge 5 – Secure Coding Review
-
 ---
 
 ### 🚧 Task 3 – Vulnerability Disclosure Program
